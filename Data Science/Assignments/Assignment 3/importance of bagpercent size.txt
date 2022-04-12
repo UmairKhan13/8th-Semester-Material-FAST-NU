@@ -1,0 +1,5 @@
+Bagging (Bootstrap Aggregation) is used when our goal is to reduce the variance of a decision tree.
+ Here idea is to create several subsets of data from training sample chosen randomly with replacement. 
+ Now, each collection of subset data is used to train their decision trees.
+ As a result, we end up with an ensemble of different models. 
+ Average of all the predictions from different trees are used which is more robust than a single decision tree.

@@ -1,0 +1,14 @@
+{
+  "cities": [
+    "islamabad",
+    "karachi",
+    "peshawar",
+    "quetta"
+],
+  "provinces": [
+    "capital",
+    "sindh",
+    "KPK",
+    "Balochistan"],
+
+}
